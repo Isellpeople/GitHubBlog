@@ -19,7 +19,9 @@
 - I learned to use codeblocks: 
     ````
     ```language
+
     console.log('This is some code');
+    
     ```
     ````
 
@@ -29,6 +31,15 @@
     ```
 > This is also a quote
 
+[comment]: <> 'javascript script'
+<script src="index.js"></script>
 
+- I learned how to add JavaScript scripts:
+    ```html
+    <!--It uses raw HTML `<script>` tag-->
+    <script src="index.js"></script>
+    ``` 
+
+***
 
 [Next page](Page2.md)
