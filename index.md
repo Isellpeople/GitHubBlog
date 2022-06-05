@@ -6,15 +6,15 @@
 
 ## [About me](about.md)
 
-##### A little section about me and my interests.
+#### A little section about me and my interests.
 
 ## [Bucketlist](bucketlist.md)
 
-##### What I want to achieve in my programming journey.
+#### What I want to achieve in my programming journey.
 
-## [Achieved until now](achieved.md)
+## [Learned until now](achieved.md)
 
-##### What I have achieved until now
+#### What I have achieved until now
 
 ***
 
