@@ -50,7 +50,7 @@
 
 ***
 
-[Next page](Page2.md)
+[Home](index.md)
 
 [comment]: <> 'javascript script'
 <script src="index.js"></script>
