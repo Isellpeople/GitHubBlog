@@ -16,4 +16,15 @@
     
     ***DO NOT EXPECT ME TO PUT SERIOUS IMAGES***
 
-![Video](Videos/-2616778892521631311.mp4)
+- I learned to use codeblocks: 
+    ````
+    ```language
+    console.log('This is some code');
+    ```
+    ````
+
+- Also learned about quotes: 
+    ```markdown
+    > This is a quote
+    ```
+> This is also a quote
