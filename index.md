@@ -40,7 +40,13 @@
     <script src="index.js"></script>
     ``` 
 
-<p onclick="alertClick()">Click this to get an alert</p>
+<style>
+.finger-pointer {
+    cursor: pointer;
+}
+</style>
+
+<p onclick="changeColor()" id="demo" class="finger-pointer">Click this to get an alert</p>
 
 ***
 
