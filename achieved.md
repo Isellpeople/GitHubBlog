@@ -17,6 +17,7 @@
 ***DO NOT EXPECT ME TO PUT SERIOUS IMAGES***
 
 - I learned to use codeblocks: 
+
 ````
 ```language
 console.log('This is some code');
@@ -24,9 +25,11 @@ console.log('This is some code');
 ````
 
 - Also learned about quotes: 
+
 ```markdown
     > This is a quote
 ```
+
 > This is also a quote
 
 
