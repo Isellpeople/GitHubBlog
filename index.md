@@ -4,7 +4,7 @@
 
 # *Home page*
 
-## [About me](README.md)
+## [About me](about.md)
 
 ##### A little section about me and my interests.
 
