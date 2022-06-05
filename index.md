@@ -1,4 +1,4 @@
-# Learning Git and GitHub
+# Learning a bit of markdown and formatting
 
 - Learned how to add link redirects:
 
@@ -28,3 +28,7 @@
     > This is a quote
     ```
 > This is also a quote
+
+
+
+[Next page](Page2.md)
