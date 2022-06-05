@@ -46,7 +46,7 @@
 }
 </style>
 
-<p onclick="changeColor()" id="demo" class="finger-pointer">This text changes color on click</p>
+<p onclick="alertClick()" id="demo" class="finger-pointer">Click this to get an alert</p>
 
 ***
 

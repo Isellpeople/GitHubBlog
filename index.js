@@ -5,6 +5,7 @@ function alertClick() {
     alert('This is what an alert is')
 }
 
+// does not work to chnage text color
 function changeColor() {
     if (clickNum === 0) {
         document.getElementById('demo').style.color = 'red';
