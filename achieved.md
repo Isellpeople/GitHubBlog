@@ -19,9 +19,7 @@
 - I learned to use codeblocks: 
 ````
 ```language
-
 console.log('This is some code');
-    
 ```
 ````
 
