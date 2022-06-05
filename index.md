@@ -31,15 +31,20 @@
     ```
 > This is also a quote
 
-[comment]: <> 'javascript script'
-<script src="index.js"></script>
+
 
 - I learned how to add JavaScript scripts:
+
     ```html
     <!--It uses raw HTML `<script>` tag-->
     <script src="index.js"></script>
     ``` 
 
+<p onclick="alertClick()">Click this to get an alert</p>
+
 ***
 
 [Next page](Page2.md)
+
+[comment]: <> 'javascript script'
+<script src="index.js"></script>
