@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="Styles/Styles.css">
+<link rel="stylesheet" href="Pages/Styles/Styles.css">
 
 # <p class="header-1">Home page</p>
 
