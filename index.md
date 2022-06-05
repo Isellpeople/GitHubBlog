@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="Pages/Styles/Styles.css">
 
-# <p class="header-1">Home page</p>
+<h1 class="header-1">Home page</h1>
 
 ## [About me](README.md)
 
