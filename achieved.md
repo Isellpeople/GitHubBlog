@@ -236,6 +236,11 @@ function changeColor() {
 >
 > At least leave the `==` operator mean type and value identity and the `===` be only value identity
 
+# I finished my first game
+
+- The game was written in Python using pygame
+- [Github repo]("https://github.com/Isellpeople/project.git")
+
 ***
 
 [Home](index.md)

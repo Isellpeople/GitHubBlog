@@ -14,7 +14,7 @@
 
 1. Make a game engine
 
-2. Make a game with no game engine
+2. *Make a game with no game engine* *DONE*
 
 3. Publish a game
 
